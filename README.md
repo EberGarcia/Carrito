@@ -1,1 +1,1 @@
-# Carrito
+Carrito desarrollado con tecnología Html5, css y JavaScript
